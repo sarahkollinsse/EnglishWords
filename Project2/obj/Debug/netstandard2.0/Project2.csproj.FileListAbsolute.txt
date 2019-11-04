@@ -1,0 +1,10 @@
+/Users/sarahleecheescake/Projects/Project2/Project2/bin/Debug/netstandard2.0/Project2.deps.json
+/Users/sarahleecheescake/Projects/Project2/Project2/bin/Debug/netstandard2.0/Project2.dll
+/Users/sarahleecheescake/Projects/Project2/Project2/bin/Debug/netstandard2.0/Project2.pdb
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/Project2.csprojAssemblyReference.cache
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/Project2.AssemblyInfoInputs.cache
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/Project2.AssemblyInfo.cs
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/Project2.dll
+/Users/sarahleecheescake/Projects/Project2/Project2/obj/Debug/netstandard2.0/Project2.pdb

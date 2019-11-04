@@ -1,0 +1,65 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/sarahleecheescake/Projects/Project2/Project2.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone12.1-13.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
